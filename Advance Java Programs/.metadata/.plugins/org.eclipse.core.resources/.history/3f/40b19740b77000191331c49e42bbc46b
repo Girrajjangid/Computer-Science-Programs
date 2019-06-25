@@ -1,0 +1,10 @@
+package RMI2;
+
+public class ImplementClass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

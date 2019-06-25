@@ -1,0 +1,5 @@
+package RMI2;
+
+public interface Hello {
+
+}
