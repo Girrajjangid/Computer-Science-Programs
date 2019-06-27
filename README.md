@@ -14,7 +14,7 @@ A full list of all programs of some subjects of Computer Science of Engineering
 
 [DataBase Advance Java](https://github.com/Girrajjangid/Computer-Science-Programs/tree/master/DataBaseAdv_Java)
 
-[JAVA Programs](https://github.com/Girrajjangid/Computer-Science-Programs/tree/master/JAVA%20Programs)
+[JAVA Programs](https://github.com/Girrajjangid/Computer-Science-Programs/tree/master/JAVA%20Programs/Workspace/Practice/src/FirstProgram)
 
 [PYTHON Programs](https://github.com/Girrajjangid/Computer-Science-Programs/tree/master/python%20Programs)
 
