@@ -17,5 +17,6 @@ A full list of all programs of some subjects of Computer Science of Engineering
 
 [JAVA Programs](https://github.com/Girrajjangid/Computer-Science-Programs/tree/master/JAVA%20Programs/Workspace/Practice/src/FirstProgram)
 
-[PYTHON Programs](https://github.com/Girrajjangid/Computer-Science-Programs/tree/master/python%20Programs)
+[Python Programs](https://github.com/Girrajjangid/Computer-Science-Programs/tree/master/python%20Programs)
 
+[Python Projects](https://github.com/Girrajjangid/Computer-Science-Programs/tree/master/Python%20Projects)
